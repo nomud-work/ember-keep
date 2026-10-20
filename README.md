@@ -1,6 +1,8 @@
 # Ember Keep
 
-![Ember Keep](media/cover.png)
+![Animated preview of Ember Keep: the hero carries logs to the campfire while glowing wisps close in from the dark forest](media/ember-keep.webp)
+
+Full-quality video: [media/gameplay.mp4](media/gameplay.mp4)
 
 Ember Keep is a top-down survival game about one campfire in a dark forest. You run out into the woods, grab logs, carry them back and keep the fire alive. Wisps come out of the dark to eat the fire, and you dash through them to pop them. The fire is your light, so as it dies, your world shrinks. It was built with the [ref2game](https://github.com/studioigor/ref2game) agent skill: one reference image went in, the image model painted the sprites, and everything that moves (light, particles, camera, HUD, game feel) is code running in ref2game's small WebGL2 engine.
 
