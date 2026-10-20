@@ -1,0 +1,7 @@
+[{"name":"ground_tex","prompt":"art/prompts/ground_tex.txt","size":"1024x1024","alpha":"none","seed":7},
+ {"name":"pine","prompt":"art/prompts/pine.txt","size":"768x1024","alpha":"native","seed":7},
+ {"name":"rock","prompt":"art/prompts/rock.txt","size":"1024x1024","alpha":"native","seed":7},
+ {"name":"stick","prompt":"art/prompts/stick.txt","size":"1024x1024","alpha":"native","seed":7},
+ {"name":"campfire","prompt":"art/prompts/campfire.txt","size":"1024x1024","alpha":"native","seed":7},
+ {"name":"wisp","prompt":"art/prompts/wisp.txt","size":"1024x1024","alpha":"native","seed":7},
+ {"name":"tuft_0","prompt":"art/prompts/tuft_0.txt","size":"1024x1024","alpha":"native","seed":7}]

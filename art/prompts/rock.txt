@@ -1,0 +1,1 @@
+A single mossy grey boulder, 2D game sprite, centred with margin.

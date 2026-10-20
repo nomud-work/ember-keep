@@ -1,0 +1,1 @@
+A single tall dark green pine tree with a short brown trunk, 2D game sprite, full tree visible, centred with margin.

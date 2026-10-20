@@ -1,0 +1,1 @@
+A campfire without fire: a ring of grey stones with a few crossed wooden logs in the middle, 2D game sprite, top view, centred with margin.

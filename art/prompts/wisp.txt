@@ -1,0 +1,1 @@
+A cute little white ghost, cartoon 2D game sprite, centred with margin.
